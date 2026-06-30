@@ -10,6 +10,7 @@ Já mexi com pentest web, OSINT, engenharia reversa, scraping, bypass, Docker, L
 - [**h4ck-toolkit**](https://github.com/overlord111111/h4ck-toolkit) — ferramentas modulares de segurança ofensiva
 - [**CTF Writeups**](https://github.com/overlord111111/ctf-writeups) — writeups de CTF com passo a passo
 - [**Over Scripts**](https://github.com/overlord111111/over-scripts) — scripts utilitários de automação
+- [**Zentor**](https://zentor-site-one.vercel.app) — e-commerce esportivo: chuteiras e roupas, full-stack com Express + Turso + Vercel
 
 ### Stack
 
