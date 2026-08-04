@@ -4,8 +4,6 @@ Sou Over, programador e hacker ético brasileiro. Trabalho com Python, seguranç
 
 Já mexi com pentest web, OSINT, engenharia reversa, scraping, Docker, Linux e desenvolvimento full-stack. Não sou especialista em uma coisa só — sou do tipo que resolve o que aparecer.
 
-Abri contribuição de tradução pt-BR e i18n para o [Hermes Agent](https://github.com/NousResearch/hermes-agent) (Nous Research) — [PR em review](https://github.com/NousResearch/hermes-agent/pull/78081).
-
 ### Projetos
 
 - [**SimpliPT**](https://github.com/overlord111111/simplipt) — linguagem de programação em português, zero dependências, PyPI
